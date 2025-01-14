@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript when using the GetObject function to interact with COM objects like Excel files.  The provided code showcases a scenario where incorrect file paths or inaccessible files can lead to script failure. The solution includes improved error handling to gracefully manage these situations.
